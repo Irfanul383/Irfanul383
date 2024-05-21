@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [MSA MUN website](https://www.msamun.ca/)
 
-- 👯 I’m also working on [My portfolio website](irfanul.com)
+- 👯 I’m also working on [My portfolio website](https://irfanul.com/)
 
 - 📫 How to reach me **irfanulhaque900@gmail.com**
 
